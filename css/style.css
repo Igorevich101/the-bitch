@@ -3,7 +3,7 @@
 }
 
 .home-page{
-  width: 98.5vw;
+  width: 98vw;
   height: 100vh;
 }
 .background{
@@ -18,28 +18,26 @@ height: 100vh;
 }
 .welcome{
   padding-top: 38vh;
-  font-size: 100px;
-  width: 1000px;
+  width: 400px;
 }
 .centre{
   margin: 0 auto
 }
 .p{
-  font-size: 40px;
-  width: 1800px;
+  font-size: 20px;
+  width: 840px;
 }
 .btn{
-  /* width: 400px; */
-  border-radius: 20px;
+  border-radius: 10px;
   border-color: rgb(146, 98, 57);
-  font-size: 40px;
-  padding: 30px;
+  font-size: 20px;
+  padding: 15px;
   display: block;
-  margin-top: 30px;
+  margin-top: 15px;
 }
 .medium-size{
-  font-size: 40px;
-  padding: 30px;
+  font-size: 20px;
+  padding: 15px;
 }
 .color-background{
   background-color:rgb(146, 98, 57) ;
@@ -48,9 +46,9 @@ height: 100vh;
   color:white
 }
 .width-vw{
-  width: 98.5vw
+  width: 98vw
 }
 .display{
   display: inline-block;
-  width: 33.2%;
+  width: 33%;
 }
