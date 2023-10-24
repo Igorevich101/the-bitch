@@ -52,3 +52,9 @@ height: 100vh;
   display: inline-block;
   width: 33%;
 }
+.text-centre{
+  text-align: center;
+}
+.text-transform{
+  text-transform:capitalize;
+}
